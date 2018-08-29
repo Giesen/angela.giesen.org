@@ -16,7 +16,7 @@
 title: Angela Giesen 
 email: angela@giesen.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Me, Myself & the cat I don't have
+  Me, Myself and the cat I don't have
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://angela.giesen.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: AngelaGiesen
